@@ -7,8 +7,8 @@ _ https://www.marxists.org/reference/archive/einstein/works/1910s/relative/relat
 
 2. The Blackhole 
 3. Algorithms
-4. Nasa resources and data 
-5. Scietfic approaches
+4. NASA resources and data 
+5. Scientific approaches
 6. The Big bang and the Beginning of Time
 7. programming language > python 
 8.Time travel
