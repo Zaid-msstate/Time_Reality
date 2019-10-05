@@ -13,9 +13,13 @@ _ https://www.marxists.org/reference/archive/einstein/works/1910s/relative/relat
 7. programming language > python 
 8.Time travel
 9. Space Time
+_ http://as9kmua8aa.download2.org/dl2.php?id=18833825&h=3b9ca680ccd2ec75fa51875522288c4a&u=cache&ext=pdf&n=A%20briefer%20history%20of%20time
 8. Gravity 
 
 --------------------------------
-Notes*:
-- Relativity: The Special and 
+Resources:
+*1: Relativity: The Special and general theory 
+*  A brief history of time
+
+
 
